@@ -1,0 +1,471 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;chkRememberMe.Name" xml:space="preserve">
+    <value>chkRememberMe</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Name" xml:space="preserve">
+    <value>txtPassword</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Name" xml:space="preserve">
+    <value>txtEmail</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnHome.Name" xml:space="preserve">
+    <value>btnHome</value>
+  </data>
+  <data name="&gt;&gt;btnHome.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnHome.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;btnHome.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.Name" xml:space="preserve">
+    <value>chkSifreGorunurluk</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.Name" xml:space="preserve">
+    <value>cyberButton2</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.Name" xml:space="preserve">
+    <value>cyberButton1</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.Name" xml:space="preserve">
+    <value>btnLogin</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="grpUserLogin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 135</value>
+  </data>
+  <data name="grpUserLogin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 424</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="grpUserLogin.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="grpUserLogin.Text" xml:space="preserve">
+    <value>Kullanici Giriş</value>
+  </data>
+  <data name="&gt;&gt;grpUserLogin.Name" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;grpUserLogin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpUserLogin.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpUserLogin.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtPassword.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 13pt</value>
+  </data>
+  <data name="txtPassword.Location" type="System.Drawing.Point, System.Drawing">
+    <value>144, 206</value>
+  </data>
+  <data name="txtPassword.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtPassword.PasswordChar" type="System.Char, mscorlib" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="txtPassword.Size" type="System.Drawing.Size, System.Drawing">
+    <value>305, 36</value>
+  </data>
+  <data name="txtPassword.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Name" xml:space="preserve">
+    <value>txtPassword</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtEmail.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 13pt</value>
+  </data>
+  <data name="txtEmail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>144, 144</value>
+  </data>
+  <data name="txtEmail.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtEmail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>305, 36</value>
+  </data>
+  <data name="txtEmail.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Name" xml:space="preserve">
+    <value>txtEmail</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnHome.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btnHome.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 11pt</value>
+  </data>
+  <data name="btnHome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 49</value>
+  </data>
+  <data name="btnHome.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 60</value>
+  </data>
+  <data name="btnHome.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnHome.Name" xml:space="preserve">
+    <value>btnHome</value>
+  </data>
+  <data name="&gt;&gt;btnHome.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnHome.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;btnHome.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="chkSifreGorunurluk.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkSifreGorunurluk.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="chkSifreGorunurluk.Location" type="System.Drawing.Point, System.Drawing">
+    <value>313, 261</value>
+  </data>
+  <data name="chkSifreGorunurluk.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 32</value>
+  </data>
+  <data name="chkSifreGorunurluk.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="chkSifreGorunurluk.Text" xml:space="preserve">
+    <value>Şifre Göster</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.Name" xml:space="preserve">
+    <value>chkSifreGorunurluk</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;chkSifreGorunurluk.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="cyberButton2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAABIFJREFUaEPtWc+LHEUUbvWi29URDInm5kkFL4KXZHqGVWMugodg9H8wevQHXhIN
+        Csluku0egyAI8aKCf4X4K2ByEBNYf0UTvUTBm4pZ4sbve/X1bLrTPT07Vrsz4AeP7Xn16tX7ql69qu6N
+        JsHTH0a39YZu0M/d8X7mzvSz5BfImgTP1LnlNHN92qrb7GD3iegOBPiSBZsn1ycS2A6GyYuLp6Pb5WZr
+        gdk/kObJTzcEuAo52s/ivXuG7oF9y3fHFD5TZ225+3qDlLuMFdovd1uA69EtIPAqAlv3BNzZwTB+TK2t
+        GORJL82ST0V+nQSjw9Gtav6PgAFB4gMFsYZZfZbE1Do50AcTcND7sNV5byo/0wIk3tDAv6Ur8SNSTw36
+        oC/vMzkidbfAgAeUCmshSBQwMr66rXe+Z1idNjY20qmCh9/etcAZRbp879PFXcQ+eI39ZDIWaR4/J9+X
+        O61mVmL9QF9Uc9lKcO4+9+1lwQx/NhEZv2fOWp88eUHasOABhlm2c6KXx49KPQJnXkH/wOrFkstym+bu
+        RyOUucMyHQv2Nfs8udJJFfMnNgNKVqUqwdIJ7dUSbGeHBea+k6oVsPXnzNClUoUDnB8XkaNSlYC2q2xf
+        PLXDSWXoHdueUI8V+0uqVmBVl3wftyRVOGDGz3gi8V6pSgDRi2yvrkiabdtnQeXuW6laMeqDvSVVOGBG
+        fzUibyb3SVXCaI9wTwzjx7kyFlDmLlm/3B2SaSt6K8n9vg/2SWjAqaUOU0WqEqw0YwYVQFU+2Uw5nSYd
+        JwYcjyVCMFhWJ25sb8+/7tBmz4QRkdz9LlU4FKW3KbVCokgtlnKpwgEz6w+7hs0eEsVmx+R9LFU4IGWW
+        5by2/IZEMRYvp1KFA5a5LyK1B2JIYKxvRORJqcKh7YoSChs3AZPze96Kd6opHPiO7Qe4+dIYBLw05u6c
+        jZG5PzojY+UVV2wNdFDqYMAmf56+Wa0WV+68lyQ6I4NB9iPFgr9YMV3pk4H3suQJ6hh8p2Tg9Ih3Hv5V
+        F6f561IbuiWDXMbKvG/OuTJ4s5tqz5gfpJNWAmTerfPTORkM/DIc/60gzm3mc5CvTsXGbv8cBNsdWK2v
+        ZL86OLmwS01hYHumKAAQngGo/8d4OvOjHG/BFD5Th/Yl2hT2KBqXxp0XnP1iBbpdGYDVjO/YcH5Fg0wk
+        JDXuQnlD4KOgOydjQGrw9VSzzis9ifHW/CfS4mfIR7p+XIC0BtIUdEV/oRsyE2Az+d5k2/memRT/k5kL
+        Mg0i0/knIzPDzJOpQx0RYu7INBEhqkEvnlq4p04/E2TGESHmhkxBpE5k0nZo+oM3S76c6lIbCgquVmRi
+        aCFj16beysJDZjwrULCtBWAjzZJ3qEtz94oZzgqaiBB1ZAaZe0q/w38j+zcYR4SokuGXUTxfhe7a7hPb
+        7pLZ1qMgUicyuWnPFM94k31GJlsPBVcrMjGUVkaCV4vTap5N1BEhKitDCf//lpAoAtXPEtKT8YNo03eF
+        5LzUs4kmIk0leWZREGmUeSBB1AZfSIlEFP0DP/fUmO5LtAQAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="cyberButton2.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="cyberButton2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 11pt</value>
+  </data>
+  <data name="cyberButton2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 206</value>
+  </data>
+  <data name="cyberButton2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 36</value>
+  </data>
+  <data name="cyberButton2.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.Name" xml:space="preserve">
+    <value>cyberButton2</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;cyberButton2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="cyberButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAABL1JREFUWEftWFtoHFUYHlSa3Z1zVo1KFdGKNb2l9kIx3ctsFkSxtUKLtlbBSrUi
+        aNEiFXxRlhbR2jbOmUlItLaIID74IsVX8bW1Kioq+ibxSiv6oBVTjR6/f/Z3c87szGZ3s30o5IOf2Zzv
+        v83/n9vEmcc8LlQMBf15L8zfX1byNS8Qp/A84yn5F0n0m8YCecRT7n2ll66QbHb+4Y3KJZ4SxyB/eIHU
+        bUld9+iwkgPspvcojDhZVOUwqvJ3UwLtSlRdcbD6upNht70BvTkCfN4UsFtR4kTl5dw17H5uGA5ya+tz
+        KiFQICZRkbDi5+8o+XLp7YcWuiT0m8bAj6Li3ybZwud3mJ+rOEx3oMolJUfOEfjhbW87F7NqKkgHL7EL
+        dt8n+amO5a5m1c5Qn3PNbUVi71THrhKs1jZoJaOix+P+qN0bAqeP1doHLYgmZ4FQTs25iFU6B2xRzSDu
+        F5XcxxrtgbaS+GqlysWTGx51b+aAX5QDcRbV+BXPj5lOBnzEKwkfv3fUagQ6ZjuguTLTVmoJxsbB/WPq
+        /S+shi4kj0ftVvIHkyN/TLdGdELEN2ElH2I6Sg5/v2/xMWHV1AQJlUA8YnLUgbZOHDq+TEO0Y9JcrRib
+        sPlmYdWWCdZXN7Yagy/57nam0wEjnK0zRrTPMRXNOYxZbaV9rqLEPfT2hZF8fzlw72X1lgkS0ImxmM6r
+        TKUDFTtlG+U3MEWcMjlKjpJiugmmLgkPN1BS8k6TR5tPMpUOBP3ZNKIVzRRV90uTo8oxlQhTl4SHG6AT
+        x9JR8jRT6YDiOdPIXL2o4G8mN9ukNnVJeLgB8m3yKMAUU+mAopWgmUQnCQ7uzFyHgA1dkviJUT0srjR5
+        8s9UOjppseeLLUw1YeCBjF94UczokoTubUxHoCli8Up+xVQ6sGo/sIxaLBL8/bU3funlTDew/Ek5sGjT
+        gunVe11DN9KfpFsOtbYSurfiha1tBsU5wi7SQUqmEZyOMuUUlbsSTqdj/NniAREWavmbCs/3X7tmb85f
+        siMzfcNdfXrx1oyhN4so+W8lkCUOlQ76hjANaSuxNurmvUuXR6Qe2i/02mdcvXJ3Ti/bmdWLt2X09Rv7
+        9Ko9OUu3hUxwiNagiR8/6tD2XUw7K2rOAiT9nsmTFA8JfUvN1WuezunBx7J66Y6MvvFuVHF73y+oeqwr
+        hqByeE60c7dsAAZHLSe4bJorlpL0QvFmTEcXDgi97llXr34qp1c8mtWDu7OfDT3h5MkG+mW86Fs07yB/
+        0oLA9HgDe2ExctoJom8Q+oS0EhDH49ctBN2C8U8QcCrS8YVe/4KYQiU/Xfec2Mxq5wd424N2glGrg7lc
+        WKmNmD6P03cLD3UP+jSEsxPxJKmSs50gSaBrHM7adyMfSny4XrkLmeoedMulVRxPEi09A9lTrTmXsGo6
+        6Jrvyweh/5PlIxDfFEOxjLW6B30awrm1oTaC0Di2nXIoN1Iw2oBJhn2xvBLKTeDHwVs354ZtIH+kfZXD
+        zA1UyeR2dyvio+LYZYvYfW/A3yH76GqeHLQtoYvI/p7/68NENC/Rus4SxS1IyVd6XrVWoLlG3xAUmG7C
+        eJ5GMueQ/FT0uz4l8P0itpIum81jHhcYHOc/KnYXPOiw2lAAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="cyberButton1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="cyberButton1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 11pt</value>
+  </data>
+  <data name="cyberButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 144</value>
+  </data>
+  <data name="cyberButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 36</value>
+  </data>
+  <data name="cyberButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.Name" xml:space="preserve">
+    <value>cyberButton1</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;cyberButton1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnLogin.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 15pt</value>
+  </data>
+  <data name="btnLogin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>156, 332</value>
+  </data>
+  <data name="btnLogin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>250, 43</value>
+  </data>
+  <data name="btnLogin.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.Name" xml:space="preserve">
+    <value>btnLogin</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CyberButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;btnLogin.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="chkRememberMe.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkRememberMe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>313, 299</value>
+  </data>
+  <data name="chkRememberMe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 24</value>
+  </data>
+  <data name="chkRememberMe.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="chkRememberMe.Text" xml:space="preserve">
+    <value>Bilgileri Kaydet</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.Name" xml:space="preserve">
+    <value>chkRememberMe</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.Parent" xml:space="preserve">
+    <value>grpUserLogin</value>
+  </data>
+  <data name="&gt;&gt;chkRememberMe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 20</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1250, 791</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ÜyeGirisEkranı</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ÜyeGirisEkranı</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
